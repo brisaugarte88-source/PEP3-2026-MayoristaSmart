@@ -4,5 +4,5 @@ En esta carpeta reunimos la información de los integrantes de Mayorista Smart y
 
 ## Documentos
 
-- [Equipo Mayorista Smart](Equipo mayorista Smart.docx): información del equipo.
+- [Equipo Mayorista Smart](Equipo%20mayorista%20Smart.docx): información del equipo.
 - [Responsabilidades](responsabilidades.docx): distribución de las tareas y funciones.
