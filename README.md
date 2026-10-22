@@ -2,62 +2,45 @@
 
 ## Mayorista Smart
 
-Repositorio oficial del proyecto Mayorista Smart para la materia de Probabilidad y Estadística P3, gestión 2026.
+Repositorio oficial del proyecto Mayorista Smart, desarrollado para la materia de Probabilidad y Estadística P3.
 
-## Descripción del proyecto
+## Descripción
 
-Mayorista Smart es un proyecto orientado a la gestión de un negocio mayorista. La propuesta busca organizar la información relacionada con los productos, las ventas, la distribución y el inventario en un solo sistema.
+Mayorista Smart es una propuesta de sistema para organizar la información de un negocio mayorista y apoyar el análisis de sus operaciones y la toma de decisiones.
 
-## Problema
+## Módulos del sistema
 
-El proyecto busca mejorar la organización y el manejo de la información del negocio, evitando que los datos de productos, ventas e inventario se encuentren desordenados o sean difíciles de consultar.
+El sistema se organizará en cuatro módulos:
 
-## Objetivo
+- **Inventario**
+- **Clientes**
+- **Pedidos**
+- **Reportes**
 
-Desarrollar una propuesta de sistema de gestión que permita organizar la información del negocio y facilitar el registro y consulta de productos, ventas, distribución e inventario.
+Mantendremos estos nombres en los documentos, la planificación y el desarrollo del sistema.
 
-## Usuarios
+## Tecnologías y arquitectura
 
-El sistema está pensado principalmente para las personas responsables de la gestión del negocio, quienes necesitan registrar, consultar y controlar la información de productos, ventas e inventario.
+Desarrollaremos la aplicación en **C# con Windows Forms** y organizaremos su arquitectura en tres capas: presentación, lógica de negocio y datos. Utilizaremos **SQL Server / LocalDB** como base de datos.
 
-## Funcionalidades principales
+Para analizar y visualizar los datos, contemplamos el uso de **Apache Superset**.
 
-- Registro y organización de productos.
-- Registro de ventas.
-- Control de inventario.
-- Gestión de distribución.
-- Consulta de información del negocio.
-- Organización de datos para su posterior análisis y visualización.
+## Análisis y pruebas
 
-## Análisis y visualización
+Aplicaremos técnicas de estadística descriptiva y regresión lineal para analizar los datos y apoyar la predicción de la demanda. Según nuestra planificación, realizaremos las pruebas durante la semana 8. Revisaremos, entre otros aspectos, el control de inventario, el registro de operaciones y la exactitud de los cálculos y reportes.
 
-Para el análisis y visualización de los datos del proyecto se contempla el uso de Apache Superset.
+## Organización del repositorio
 
-Flujo general:
+- [`docs/proyecto`](docs/proyecto/): informe y documentos del proyecto.
+- [`docs/planificacion`](docs/planificacion/): cronograma, planificación y seguimiento.
+- [`docs/presentaciones`](docs/presentaciones/): presentaciones del proyecto.
+- [`docs/requisitos`](docs/requisitos/): requisitos del sistema.
+- [`equipo`](equipo/): documentos del equipo y responsabilidades.
 
-Registro de productos y ventas → Base de datos → Apache Superset → Gráficos e indicadores → Análisis y toma de decisiones
+## Equipo
 
-## Integrantes
+La información de los integrantes y sus responsabilidades está en la carpeta [`equipo`](equipo/).
 
-- Brisa Desireé Ugarte Rocabado
-- Eric Bamael
-- Estariel Montanobu
-- Mauro
+## Estado del proyecto
 
-## Estado actual
-
-Actualmente el proyecto se encuentra en la etapa de organización y preparación para su desarrollo. El repositorio contiene la información inicial del equipo y se irá incorporando progresivamente la documentación, planificación, recursos y componentes del proyecto.
-
-## Estructura del repositorio
-
-```text
-PEP3-2026-MayoristaSmart/
-│
-├── README.md
-│
-└── Equipo/
-    ├── Brisa_Ugarte.txt
-    ├── Eric_Bamael.txt
-    ├── Estariel_Montanobu.txt
-    ├── Mauro.txt
-    └── README.md
+El repositorio contiene documentación del proyecto, planificación y materiales del equipo. Actualizaremos esta sección y los documentos relacionados conforme avancemos en el desarrollo y las pruebas.
