@@ -4,7 +4,6 @@ En esta carpeta organizamos el cronograma y el seguimiento de las actividades de
 
 ## Documentos
 
-- [Cronograma de Gantt](Gantt_Mayorista_Smart.xlsx)
 - [Planificación del proyecto](planificación.docx)
 - [Seguimiento y validación](seguimiento.docx)
 ## Diagrama de Gantt
