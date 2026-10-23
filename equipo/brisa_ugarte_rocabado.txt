@@ -1,0 +1,4 @@
+Nombre: Brisa Desireé
+Apellido: Ugarte Rocabado
+Grupo: MayoristaSmart
+Rol o responsabilidad principal: Base de datos y lógica del sistema
