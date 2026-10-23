@@ -4,7 +4,7 @@ En esta carpeta reunimos el informe y los documentos principales de Mayorista Sm
 
 ## Documentos
 
-- [Informe del proyecto](Informe_MayoristaSmart.pdf)
+- [Informe del proyecto](informe_prob_y_estadistica.pdf)
 - [Arquitectura del sistema](arquitectura.docx)
 - [Metodología](metodología.docx)
 - [Coherencia documental](coherencia.docx)
